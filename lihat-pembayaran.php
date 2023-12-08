@@ -40,7 +40,7 @@ if($_SESSION['pelanggan']['id_pelanggan'] != $detbay['id_pelanggan']){
 </head>
 <body>
 
-<?php include 'templates/navbar.php'; ?>
+<?php include 'templates/navbar1.php'; ?>
 
 <section class="content">
   <div class="container">

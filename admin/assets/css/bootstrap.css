@@ -6354,5 +6354,8 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+#lokasi.alert-info:hover {background: linear-gradient(to right, red, yellow, blue) ;
+  
+
 }
 /*# sourceMappingURL=bootstrap.css.map */

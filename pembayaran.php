@@ -44,7 +44,7 @@ if($id_pelanggan_beli != $id_pelanggan_login){
 </head>
 <body>
 
-<?php include 'templates/navbar.php'; ?>
+<?php include 'templates/navbar1.php'; ?>
 
 <section class="content">
   <div class="container">

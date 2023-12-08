@@ -54,7 +54,7 @@ if(isset($_POST['login'])){
 </head>
 <body>
 
-<?php include 'templates/navbar.php'; ?>
+<?php include 'templates/navbar1.php'; ?>
 
 <div class="container">
   <div class="row">

@@ -26,7 +26,7 @@ while($pecah = $ambil->fetch_assoc()){
 </head>
 <body>
 
-<?php include 'templates/navbar.php'; ?>
+<?php include 'templates/navbar1.php'; ?>
 
 <section class="content">
   <div class="container">

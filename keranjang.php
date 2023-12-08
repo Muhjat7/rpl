@@ -24,7 +24,7 @@ if(empty($_SESSION["keranjang"]) OR !isset($_SESSION["keranjang"])){
 </head>
 <body>
 
-<?php include 'templates/navbar.php'; ?>
+<?php include 'templates/navbar1.php'; ?>
 
 <section class="content">
   <div class="container">

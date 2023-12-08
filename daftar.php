@@ -40,7 +40,7 @@ if(isset($_POST['daftar'])){
 <body>
 
 <!-- navbar -->
-<?php include 'templates/navbar.php'; ?>
+<?php include 'templates/navbar1.php'; ?>
 
 
 <section class="content">
